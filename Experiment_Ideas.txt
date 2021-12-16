@@ -1,3 +1,0 @@
-A) 16 generations- Stationary
-B) 16 generations- Time Dependent
-C) Large Amount of Data for enabling Large ConvNets
